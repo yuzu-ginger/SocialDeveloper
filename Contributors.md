@@ -20,6 +20,7 @@ studentID - username <br/>
 1911323 - ifrazrehman <br/>
 2011208 - RyusukeNakamura <br/>
 2311209 - NamikoshiTakaya <br/>
+2311272 - Takuma Miwa <br/>
 1911404 - Takuro Niitsuma<br/>
 2211246 - Higaki-Akihiro<br/>
 2111089 - Shogo Kanda<br/>
@@ -384,10 +385,19 @@ studentID - username <br/>
 2311021 - Takumi Ikenaga
 2311120 - Kozaki Taizo
 2311003 - Toshihiro Asai <br/>
+2311229 - Hiura Takahiro <br/>
 2311219 - Hashimoto Sachi <br/>
 2311233 - Takuya Fukushima <br/>
 2311221 - Carlos Paniagua <br/>
 2311196 - Takashi Nakano <br/>
 2311287 - Yamasaki Kokoro <br/>
 2311069 - Tomoya Ohashi <br/>
+
 2311054 - Shoichiro uchida <br/>
+
+
+2111001 - Yuta Aishima <br/>
+
+2311034 - Yoshihisa Ito <br/>
+
+
