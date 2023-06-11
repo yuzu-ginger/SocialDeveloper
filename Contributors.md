@@ -4,6 +4,7 @@ studentID - username <br/>
 2311250 - Taichi Maeda
 2311020 - Riku Ikeuchi <br/>
 2311038 - Takuya Imasawa <br/>
+2311038 - Takuya Imasawa(Pull request again on June 11th) <br/>
 2311280 - Yasuhito Morikawa <br/>
 2311133 - Kohei Sawano <br/>
 2111149   - Keiichiro Takahashi <br/>
