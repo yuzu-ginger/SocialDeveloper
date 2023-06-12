@@ -1,9 +1,13 @@
 studentID - username <br/>
+2211421 - Wang Zihang<br/>
 25122098 - Andres Mohali <br/>
 2311070 - Yuto Ohashi <br/>
 2311250 - Taichi Maeda
 2311020 - Riku Ikeuchi <br/>
+2311038 - Takuya Imasawa <br/>
+2311038 - Takuya Imasawa(Pull request again on June 11th) <br/>
 2311280 - Yasuhito Morikawa <br/>
+2311133 - Kohei Sawano <br/>
 2111149   - Keiichiro Takahashi <br/>
 2211320 - Ryuki Yoshida <br/>
 2111149 - Keiichiro Takahashi <br/>
@@ -238,6 +242,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111070 - Hiroto Oshimi<br/>
 2211025 - Naoto Ichi<br/>
 2211341<br/>
+2211417 - Brian Rocha Confessor <br/>
 2211233 - Akari Haga<br/>
 2111252 - Daiki Mayumi <br/>
 2111016 - Hiroki Ishimaru<br/>
@@ -351,6 +356,7 @@ studentID - username <br/>
 2211032 - Ren Imamura <br/>
 2211336 - Dohyun Kim <br/>
 2211081 - Yushi Okunishi <br/>
+2311335 - Indira Febriyanti <br/>
 2311197 - Issa Nakamura <br/>
 2311014 - Shunsuke Araki<br/>
 2311174 - Ryo Tsujimoto <br/>
@@ -375,10 +381,13 @@ studentID - username <br/>
 2311320 - Haruto Tanaka <br/>
 2311312 - Tamami Watanabe <br/>
 2311138 - Suehara Kazuki <br/>
+Minoru Ishihara - MinoruIshihara
+2311282 - Yoshiki Yano
 2311138 - Suehara Kazuki <br/>
 2311029 - Minoru Ishihara <br/>
 2311173 - Kohei Tsuji <br/>
 2311163 - Kota Takehara <br/>
+2311190 - Akiyoshi Nakaoka <br/>
 2311278 - Muramoto Kojiro <br/>
 2311278 - Muramoto Kojiro <br/>
 2211405 - Iqra Ali <br/>
@@ -392,20 +401,22 @@ studentID - username <br/>
 2311196 - Takashi Nakano <br/>
 2311287 - Yamasaki Kokoro <br/>
 2311069 - Tomoya Ohashi <br/>
-
+2311330 - Habiba Hesham Mohamed AbdelAziz <br/>
 2311338 - LI KAIFAN <br/>
-
-
 2311161 - takezaki sibuki <br/>
-
-
+2211404 - Yuki Morimoto <br/>
 2311054 - Shoichiro uchida <br/>
-
-
+2311224 - Kazuki Hayashi <br/>
 2111001 - Yuta Aishima <br/>
-
 2311034 - Yoshihisa Ito <br/>
-
-
-
-
+2111190 - Kotaro James Nishimura <br/>
+2211421 - Wang Zihang<br/>
+2311199 - Koichiro Nakamura
+Tomoya Okuno, motonuko<br/>
+2311259 - Wataru Mabuchi <br/>
+2311192 - Hyuga Nakaguro <br/>
+2311251 - Masui Taichi <br/>
+2211144 - Shinohara Ryoutaro <br/>
+2311114 - Takuto Kudo<br/>
+2211413 - Pongchai Jaisri <br/>
+2311333 - HERNANDEZ RODRIGUEZ DIEGO <br/>
