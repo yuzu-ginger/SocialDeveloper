@@ -380,6 +380,8 @@ studentID - username <br/>
 2311320 - Haruto Tanaka <br/>
 2311312 - Tamami Watanabe <br/>
 2311138 - Suehara Kazuki <br/>
+Minoru Ishihara - MinoruIshihara
+2311282 - Yoshiki Yano
 2311138 - Suehara Kazuki <br/>
 2311029 - Minoru Ishihara <br/>
 2311173 - Kohei Tsuji <br/>
