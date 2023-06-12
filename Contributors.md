@@ -422,3 +422,4 @@ Tomoya Okuno, motonuko<br/>
 2311114 - Takuto Kudo<br/>
 2211413 - Pongchai Jaisri <br/>
 2311333 - HERNANDEZ RODRIGUEZ DIEGO <br/>
+2311090 - Yuina Kataoka <br/>
