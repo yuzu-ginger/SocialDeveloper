@@ -1,4 +1,6 @@
 studentID - username <br/>
+2311065 - Otsubo Hiromu<br/>
+2311245 - Koki Hori<br/>
 2211421 - Wang Zihang<br/>
 25122098 - Andres Mohali <br/>
 2311070 - Yuto Ohashi <br/>
@@ -59,6 +61,7 @@ studentID - username <br/>
 1911413 - Zhiwei Gao<br/>
 2011297 - Kotaro Yoshimoto<br/>
 2011268 - Keita Morisaki<br/>
+2311106 - Erika Kimura<br/>
 2011170 - Seiya Tanaka<br/>
 2011226 - Shintaro Harada <br/>
 2211324 - Hiroto Yorioka <br/>
@@ -421,3 +424,5 @@ Tomoya Okuno, motonuko<br/>
 2211413 - Pongchai Jaisri <br/>
 2311333 - HERNANDEZ RODRIGUEZ DIEGO <br/>
 2311040 - Kodai Iwasaki<br/>
+2311237 - Naoya Fujikawa <br/>
+2311090 - Yuina Kataoka <br/>
