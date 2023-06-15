@@ -428,4 +428,5 @@ Tomoya Okuno, motonuko<br/>
 2311040 - Kodai Iwasaki<br/>
 2311237 - Naoya Fujikawa <br/>
 2311090 - Yuina Kataoka <br/>
+2311234 - Ryuhei Fukuta <br/>
 2311049 - Asuka Uetani <br/>
