@@ -32,6 +32,7 @@ studentID - username <br/>
 2111089 - Shogo Kanda<br/>
 2111411<br/>
 2211072 - Miyu Oba<br/>
+2311131 - Kairi Sasazaki<br/>
 2211017 - Ikeyama Tetsuya<br/>
 2211048<br/>
 2111441 - Yang Shuo<br/>
@@ -428,3 +429,4 @@ Tomoya Okuno, motonuko<br/>
 2311237 - Naoya Fujikawa <br/>
 2311090 - Yuina Kataoka <br/>
 2311234 - Ryuhei Fukuta <br/>
+2311049 - Asuka Uetani <br/>
