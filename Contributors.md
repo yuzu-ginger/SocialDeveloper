@@ -430,3 +430,4 @@ Tomoya Okuno, motonuko<br/>
 2311090 - Yuina Kataoka <br/>
 2311234 - Ryuhei Fukuta <br/>
 2311049 - Asuka Uetani <br/>
+2311149 - Shigeyuki Taira <br/>
