@@ -10,6 +10,7 @@ studentID - username <br/>
 2311038 - Takuya Imasawa(Pull request again on June 11th) <br/>
 2311280 - Yasuhito Morikawa <br/>
 2311133 - Kohei Sawano <br/>
+2311126 - Yuki Sakai <br/>
 2111149   - Keiichiro Takahashi <br/>
 2211320 - Ryuki Yoshida <br/>
 2111149 - Keiichiro Takahashi <br/>
@@ -126,6 +127,7 @@ studentID - username <br/>
 1911402 - Shogo Ujiie<br/>
 2111136 - Takuma Suginomori<br/>
 2011017 - Ikegami Ayano<br/>
+2111138 - Hiroyuki Sugimoto<br/>
 2011072 -Origasa Takumi<br/>
 2011171 - Ken<br/>
 2011145 - Sugahara Takuya<br/>
@@ -420,6 +422,7 @@ Tomoya Okuno, motonuko<br/>
 2311259 - Wataru Mabuchi <br/>
 2311192 - Hyuga Nakaguro <br/>
 2311251 - Masui Taichi <br/>
+2211416 - Ramos Fernandez Alonso <br/>
 2211144 - Shinohara Ryoutaro <br/>
 2311114 - Takuto Kudo<br/>
 2211413 - Pongchai Jaisri <br/>
@@ -429,5 +432,9 @@ Tomoya Okuno, motonuko<br/>
 2311237 - Naoya Fujikawa <br/>
 2311090 - Yuina Kataoka <br/>
 2311234 - Ryuhei Fukuta <br/>
-2311049 - Asuka Uetani <br/>
 2311149 - Shigeyuki Taira <br/>
+2211071 - Shuntaro Ohnishi <br/>
+2311156 - Kenta Takahashi <br/>
+2311303 - Shogo Yoshida <br/>
+2311049 - Asuka Uetani <br/>
+2211420 - Tongiam Pacharawan <br/>
