@@ -11,7 +11,7 @@ studentID - username <br/>
 2311280 - Yasuhito Morikawa <br/>
 2311133 - Kohei Sawano <br/>
 2311126 - Yuki Sakai <br/>
-2111149   - Keiichiro Takahashi <br/>
+2111149 - Keiichiro Takahashi <br/>
 2211320 - Ryuki Yoshida <br/>
 2111149 - Keiichiro Takahashi <br/>
 2111441 - Yang Shuo<br/>
@@ -224,7 +224,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111291 - Masashi Yoshimura<br/>
 2111027 - Shota Inoue <br/>
 2211324 - Hiroto Yorioka <br/>
-2111030   - Akihito Ihara <br/>
+2111030 - Akihito Ihara <br/>
 2111080 - Shuhei Kayawari <br/>
 2111178 - Touri Nakagawa <br/>
 2111080 - Shuhei Kayawari <br/>
@@ -273,7 +273,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111054 - Hiroyuki Otomo<br/>
 2111052 - Itaru Ota<br/>
 2111008 - Tatsuki Asada<br/>
-2211116 - Chisa Kondo<br/> 
+2211116 - Chisa Kondo<br/>
 2211065<br/>
 2211065 - Ippei Otake<br/>
 2011070 - Kazuyo Onishi <br/>
@@ -348,7 +348,7 @@ studentID - username <br/>
 2211087<br />
 2111432
 2211210 - Nakamura Tsubasa<br/>
-2211241 - Yuta Hamada<br/> 
+2211241 - Yuta Hamada<br/>
 2111417 - Hong Ruixun
 2211218
 2211241 - Yuta Hamada<br/>
@@ -435,6 +435,7 @@ Tomoya Okuno, motonuko<br/>
 2311149 - Shigeyuki Taira <br/>
 2211071 - Shuntaro Ohnishi <br/>
 2311156 - Kenta Takahashi <br/>
+2311159 - Kohei Takigami <br/>
 2311303 - Shogo Yoshida <br/>
 2311049 - Asuka Uetani <br/>
 2211420 - Tongiam Pacharawan <br/>
