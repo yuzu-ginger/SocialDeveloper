@@ -363,6 +363,7 @@ studentID - username <br/>
 2211336 - Dohyun Kim <br/>
 2211081 - Yushi Okunishi <br/>
 2311335 - Indira Febriyanti <br/>
+2311066 - Eri Onami <br/>
 2311197 - Issa Nakamura <br/>
 2311014 - Shunsuke Araki<br/>
 2311174 - Ryo Tsujimoto <br/>
@@ -439,3 +440,7 @@ Tomoya Okuno, motonuko<br/>
 2311303 - Shogo Yoshida <br/>
 2311049 - Asuka Uetani <br/>
 2211420 - Tongiam Pacharawan <br/>
+2311294 - rfLENtlr <br/>
+2311188 - Nagae Marimo <br/>
+2311091 - Ayuki Katayama <br/>
+2311325 - Marin Mikami <br/>
