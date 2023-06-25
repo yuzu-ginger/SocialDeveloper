@@ -418,6 +418,7 @@ Minoru Ishihara - MinoruIshihara
 2211404 - Yuki Morimoto <br/>
 2311054 - Shoichiro uchida <br/>
 2311224 - Kazuki Hayashi <br/>
+2311226 - Hideki Hayashi <br/>
 2111001 - Yuta Aishima <br/>
 2311034 - Yoshihisa Ito <br/>
 2111190 - Kotaro James Nishimura <br/>
