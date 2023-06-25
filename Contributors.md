@@ -445,6 +445,7 @@ Tomoya Okuno, motonuko<br/>
 2311303 - Shogo Yoshida <br/>
 2311049 - Asuka Uetani <br/>
 2211420 - Tongiam Pacharawan <br/>
+2311061 - Rikito Endo <br/>
 2311079 - Kaito Ozawa <br />
 2311016 - Daiki Andou <br/>
 2311084 - Ryu Kakiuchi <br/>
