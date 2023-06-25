@@ -1,5 +1,6 @@
 studentID - username <br/>
 2311065 - Otsubo Hiromu<br/>
+2311062 - Toi Ooka<br/>
 2311245 - Koki Hori<br/>
 2211421 - Wang Zihang<br/>
 25122098 - Andres Mohali <br/>
@@ -10,9 +11,11 @@ studentID - username <br/>
 2311038 - Takuya Imasawa(Pull request again on June 11th) <br/>
 2311280 - Yasuhito Morikawa <br/>
 2311133 - Kohei Sawano <br/>
+2311006 - Koki Asahina<br/>
 2311126 - Yuki Sakai <br/>
-2111149   - Keiichiro Takahashi <br/>
+2111149 - Keiichiro Takahashi <br/>
 2211320 - Ryuki Yoshida <br/>
+2311262 - Kazuki Mizoguchi<br/>
 2111149 - Keiichiro Takahashi <br/>
 2111441 - Yang Shuo<br/>
 2211320 <br/>
@@ -224,7 +227,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111291 - Masashi Yoshimura<br/>
 2111027 - Shota Inoue <br/>
 2211324 - Hiroto Yorioka <br/>
-2111030   - Akihito Ihara <br/>
+2111030 - Akihito Ihara <br/>
 2111080 - Shuhei Kayawari <br/>
 2111178 - Touri Nakagawa <br/>
 2111080 - Shuhei Kayawari <br/>
@@ -273,7 +276,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111054 - Hiroyuki Otomo<br/>
 2111052 - Itaru Ota<br/>
 2111008 - Tatsuki Asada<br/>
-2211116 - Chisa Kondo<br/> 
+2211116 - Chisa Kondo<br/>
 2211065<br/>
 2211065 - Ippei Otake<br/>
 2011070 - Kazuyo Onishi <br/>
@@ -348,7 +351,7 @@ studentID - username <br/>
 2211087<br />
 2111432
 2211210 - Nakamura Tsubasa<br/>
-2211241 - Yuta Hamada<br/> 
+2211241 - Yuta Hamada<br/>
 2111417 - Hong Ruixun
 2211218
 2211241 - Yuta Hamada<br/>
@@ -363,6 +366,7 @@ studentID - username <br/>
 2211336 - Dohyun Kim <br/>
 2211081 - Yushi Okunishi <br/>
 2311335 - Indira Febriyanti <br/>
+2311066 - Eri Onami <br/>
 2311197 - Issa Nakamura <br/>
 2311014 - Shunsuke Araki<br/>
 2311174 - Ryo Tsujimoto <br/>
@@ -405,6 +409,7 @@ Minoru Ishihara - MinoruIshihara
 2311233 - Takuya Fukushima <br/>
 2311221 - Carlos Paniagua <br/>
 2311196 - Takashi Nakano <br/>
+2311117 - Kuwahara Takumi <br/>
 2311287 - Yamasaki Kokoro <br/>
 2311069 - Tomoya Ohashi <br/>
 2311330 - Habiba Hesham Mohamed AbdelAziz <br/>
@@ -413,6 +418,7 @@ Minoru Ishihara - MinoruIshihara
 2211404 - Yuki Morimoto <br/>
 2311054 - Shoichiro uchida <br/>
 2311224 - Kazuki Hayashi <br/>
+2311226 - Hideki Hayashi <br/>
 2111001 - Yuta Aishima <br/>
 2311034 - Yoshihisa Ito <br/>
 2111190 - Kotaro James Nishimura <br/>
@@ -435,6 +441,13 @@ Tomoya Okuno, motonuko<br/>
 2311149 - Shigeyuki Taira <br/>
 2211071 - Shuntaro Ohnishi <br/>
 2311156 - Kenta Takahashi <br/>
+2311159 - Kohei Takigami <br/>
 2311303 - Shogo Yoshida <br/>
 2311049 - Asuka Uetani <br/>
 2211420 - Tongiam Pacharawan <br/>
+2311079 - Kaito Ozawa <br />
+2311016 - Daiki Andou <br/>
+2311084 - Ryu Kakiuchi <br/>
+2311294 - rfLENtlr <br/>
+2311188 - Nagae Marimo <br/>
+2311091 - Ayuki Katayama <br/>
