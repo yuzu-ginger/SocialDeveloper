@@ -438,6 +438,7 @@ Tomoya Okuno, motonuko<br/>
 2311237 - Naoya Fujikawa <br/>
 2311090 - Yuina Kataoka <br/>
 2311234 - Ryuhei Fukuta <br/>
+2311111 - lewiss Quarm <br/>
 2311149 - Shigeyuki Taira <br/>
 2211071 - Shuntaro Ohnishi <br/>
 2311156 - Kenta Takahashi <br/>
