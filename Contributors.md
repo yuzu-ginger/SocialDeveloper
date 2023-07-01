@@ -425,6 +425,7 @@ Tomoya Okuno, motonuko<br/>
 2211416 - Ramos Fernandez Alonso <br/>
 2211144 - Shinohara Ryoutaro <br/>
 2311114 - Takuto Kudo<br/>
+2311325 - Marin Mikami <br/>
 2211413 - Pongchai Jaisri <br/>
 2311333 - HERNANDEZ RODRIGUEZ DIEGO <br/>
 2311150 - Kota Taga <br/>
@@ -438,4 +439,3 @@ Tomoya Okuno, motonuko<br/>
 2311303 - Shogo Yoshida <br/>
 2311049 - Asuka Uetani <br/>
 2211420 - Tongiam Pacharawan <br/>
-2311325 - Marin Mikami <br/>
