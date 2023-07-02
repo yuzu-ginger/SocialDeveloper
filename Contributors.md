@@ -217,6 +217,7 @@ xxxxxxx - 1f0c7a8033bd2f83b3da4b38a2b575ba35e2451033c39faf85eeb8b25d85a331(sha25
 2111169 - Nozomi Toba <br/>
 L200194209 - Fadhlih Hasan Setiawan <br/>
 2111144 - Ryo Setoguchi<br/>
+2311036 - Yudai Inoue<br/>
 2111124 - Sato Fumiya<br/>
 2111137 - Kento Sugihara<br/>
 2111033 - Kota Iwauchi<br/>
@@ -455,4 +456,4 @@ Tomoya Okuno, motonuko<br/>
 2311188 - Nagae Marimo <br/>
 2311091 - Ayuki Katayama <br/>
 2311182 - Tokunaga  Rin <br/>
-
+2311325 - Marin Mikami <br/>
