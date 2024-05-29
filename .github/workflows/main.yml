@@ -17,9 +17,6 @@ jobs:
         with:
           node-version: '14'
 
-      - name: Install dependencies
-        run: npm install
-
       - name: Auto merge if tests pass and approvals are met
         id: merge
         uses: pascalgn/automerge-action@v0.14.3
