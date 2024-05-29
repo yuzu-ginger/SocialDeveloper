@@ -27,13 +27,13 @@ jobs:
         id: merge
         uses: pascalgn/automerge-action@v0.14.3
         with:
-          github-token: ${{ secrets.GITHUB_TOKN }}
+          github-token: ${{ secrets.APPROVER }}
           merge-method: merge # Options are merge, squash, rebase
           commit-message: merge # Options are merge, title, pull-request-title
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKN }}
+          GITHUB_TOKEN: ${{ secrets.APPROVER }}
 
       - name: Comment on PR
         if: steps.merge.outputs.pull-request-merged == 'true'
         run: |
-          curl -s -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKN }}" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments -d '{"body": "This PR has been automatically merged."}'
+          curl -s -X POST -H "Authorization: token ${{ secrets.APPROVER }}" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments -d '{"body": "This PR has been automatically merged."}'
